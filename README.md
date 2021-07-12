@@ -13,8 +13,9 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Java    
--  **Languages :** JavaScript, PHP, Python
--  **Hobbies :** gardening :cherries: & Music :headphones:
+-  **Languages :** C/C++, Bascom Basic
+-  **Hardware :** Arduino, Freescale, PSOC 5LP, ESP32
+-  **Hobbies :** travel :cherries: & Music :headphones:
 -  **Contact me :** [Fernando Gambino](https://ar.linkedin.com/in/fmgambino)
 
 
