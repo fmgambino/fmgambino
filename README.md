@@ -63,10 +63,6 @@
 <br/>
 
 <p align="center">
-  <code><img height="75" src="assets/laravel.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="assets/codeigniter.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="assets/php.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="assets/mysql.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 </p>
 
@@ -77,8 +73,6 @@
 </h2>
 <br/>
 <p align="center">
-  <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="assets/docker.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code>
 </p>
@@ -90,11 +84,11 @@
 </h2>
 <br/>
 <p align="center">
-  <a href="mailto:anth.trillo@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://github.com/anthonytrillo"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://in.linkedin.com/in/anthonytrillo"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/anthony_trillo_"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://medium.com/@anth.trillo"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
+  <a href="mailto:fernando.m.gambino@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://github.com/fmgambino"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://in.linkedin.com/in/fmgambino"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/fmgambino"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+ &nbsp;
 </p>
 
 <br/>
@@ -103,7 +97,7 @@
   My contributions:
 </h2>
 
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonytrillo&hide=["stars"]&show_icons=true)
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fmgambino&hide=["stars"]&show_icons=true)
 
 -------
        
