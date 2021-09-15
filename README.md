@@ -44,7 +44,7 @@
   A Fullstack Developer at <a href="https://rockstarsolutions.tech/">Rockstar Solutions</a>.  
 </h3>
 
-![linked anthony fondo light (1)](https://user-images.githubusercontent.com/48574294/114298136-4db87d00-9a8b-11eb-9c94-5e88d0175c40.png)
+![linked anthony fondo light (1)](https://media-exp1.licdn.com/dms/image/C5616AQGgs1j49PYLKg/profile-displaybackgroundimage-shrink_350_1400/0/1631665759089?e=1637193600&v=beta&t=i2RgaYV0MrZfyS2oS5RCi54bL__QDIMspICTfJ_Pv6E)
 
 <br/>
 
