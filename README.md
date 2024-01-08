@@ -4,7 +4,6 @@
   A Hardware and Software Developer at <a href="https://electronicagambino.com/">Electronica Gambino</a>.  
 </h3>
 
-![linked anthony fondo light (1)](https://media-exp1.licdn.com/dms/image/C5616AQGgs1j49PYLKg/profile-displaybackgroundimage-shrink_350_1400/0/1631665759089?e=1637193600&v=beta&t=i2RgaYV0MrZfyS2oS5RCi54bL__QDIMspICTfJ_Pv6E)
 
 <br/>
 
